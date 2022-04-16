@@ -1,0 +1,1 @@
+/home/lucifer/catkin_evok/devel/.private/catkin_tools_prebuild/local_setup.sh

@@ -1,0 +1,1 @@
+/home/lucifer/catkin_evok/devel/.private/ewok_optimization/lib/pkgconfig/ewok_optimization.pc

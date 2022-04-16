@@ -1,0 +1,1 @@
+/home/lucifer/catkin_evok/devel/.private/ewok_ring_buffer/lib/pkgconfig/ewok_ring_buffer.pc

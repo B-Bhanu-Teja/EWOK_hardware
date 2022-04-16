@@ -1,0 +1,1 @@
+/home/lucifer/catkin_evok/devel/.private/catkin_simple/lib/pkgconfig/catkin_simple.pc

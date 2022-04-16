@@ -1,0 +1,8 @@
+prefix=/home/lucifer/catkin_evok/devel/.private/ewok_poly_spline
+
+Name: ewok_poly_spline
+Description: Description of ewok_poly_spline
+Version: 0.0.0
+Cflags: -I/home/lucifer/catkin_evok/src/ewok/ewok_poly_spline/include
+Libs: -L${prefix}/lib 
+Requires: 

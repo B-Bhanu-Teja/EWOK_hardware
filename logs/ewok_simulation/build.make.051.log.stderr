@@ -1,0 +1,10 @@
+[01m[K/home/lucifer/catkin_evok/src/ewok/ewok_simulation/src/trajectory_replanning_example_pointCloud.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/lucifer/catkin_evok/src/ewok/ewok_simulation/src/trajectory_replanning_example_pointCloud.cpp:298:20:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass ros::NodeHandle[m[K’ has no member named ‘[01m[KwaitForMessgae[m[K’
+     robotpose = nh.[01;31m[KwaitForMessgae[m[K<geometry_msgs::PoseStamped>("/mavros/local_position/pose")
+                    [01;31m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/lucifer/catkin_evok/src/ewok/ewok_simulation/src/trajectory_replanning_example_pointCloud.cpp:298:61:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K>[m[K’ token
+     robotpose = nh.waitForMessgae<geometry_msgs::PoseStamped[01;31m[K>[m[K("/mavros/local_position/pose")
+                                                             [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/trajectory_replanning_pointCloud.dir/src/trajectory_replanning_example_pointCloud.cpp.o] Error 1
+make[1]: *** [CMakeFiles/trajectory_replanning_pointCloud.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,8 @@
+prefix=/home/lucifer/catkin_evok/devel/.private/ewok_optimization
+
+Name: ewok_optimization
+Description: Description of ewok_optimization
+Version: 0.0.0
+Cflags: -I/home/lucifer/catkin_evok/src/ewok/ewok_optimization/include
+Libs: -L${prefix}/lib 
+Requires: 

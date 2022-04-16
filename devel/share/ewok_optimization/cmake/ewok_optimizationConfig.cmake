@@ -1,0 +1,1 @@
+/home/lucifer/catkin_evok/devel/.private/ewok_optimization/share/ewok_optimization/cmake/ewok_optimizationConfig.cmake
