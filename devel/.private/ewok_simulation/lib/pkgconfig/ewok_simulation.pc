@@ -1,8 +1,0 @@
-prefix=/home/lucifer/catkin_evok/devel/.private/ewok_simulation
-
-Name: ewok_simulation
-Description: Description of ewok_simulation
-Version: 0.0.0
-Cflags: -I/home/lucifer/catkin_evok/src/ewok/ewok_simulation/include
-Libs: -L${prefix}/lib 
-Requires: 

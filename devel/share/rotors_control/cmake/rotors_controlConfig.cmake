@@ -1,1 +1,0 @@
-/home/lucifer/catkin_evok/devel/.private/rotors_control/share/rotors_control/cmake/rotors_controlConfig.cmake

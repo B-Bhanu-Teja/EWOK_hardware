@@ -1,1 +1,0 @@
-/home/lucifer/catkin_evok/devel/.private/ewok_ring_buffer/share/ewok_ring_buffer/cmake/ewok_ring_bufferConfig.cmake

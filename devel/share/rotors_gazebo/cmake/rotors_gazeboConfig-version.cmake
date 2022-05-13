@@ -1,1 +1,0 @@
-/home/lucifer/catkin_evok/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake

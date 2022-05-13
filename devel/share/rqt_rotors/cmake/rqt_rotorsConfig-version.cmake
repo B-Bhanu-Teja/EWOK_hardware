@@ -1,1 +1,0 @@
-/home/lucifer/catkin_evok/devel/.private/rqt_rotors/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake

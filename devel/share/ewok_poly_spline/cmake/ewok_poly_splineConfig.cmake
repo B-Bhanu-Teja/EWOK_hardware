@@ -1,1 +1,0 @@
-/home/lucifer/catkin_evok/devel/.private/ewok_poly_spline/share/ewok_poly_spline/cmake/ewok_poly_splineConfig.cmake

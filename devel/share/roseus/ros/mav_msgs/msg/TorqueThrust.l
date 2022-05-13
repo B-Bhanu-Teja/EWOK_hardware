@@ -1,1 +1,0 @@
-/home/lucifer/catkin_evok/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/TorqueThrust.l
