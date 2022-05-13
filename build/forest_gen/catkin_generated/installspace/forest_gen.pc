@@ -1,8 +1,0 @@
-prefix=/home/lucifer/catkin_evok/install
-
-Name: forest_gen
-Description: Description of forest_gen
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

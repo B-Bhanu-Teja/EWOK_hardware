@@ -1,1 +1,0 @@
-set(ORDERED_PATHS "/home/lucifer/catkin_evok/devel/.private/rotors_control/lib;/opt/ros/melodic/lib")

@@ -1,4 +1,0 @@
-# Hashes of file build rules.
-a87b082e19bf39b2843c875aa77b760e /home/lucifer/catkin_evok/src/ewok/rotors_simulator/rotors_gazebo/models/iris/iris.sdf
-7e1658b4deb1ca3087b9131d98335f8f CMakeFiles/clean_test_results
-7278ef176f8e0ff5f64bc2e05161d4b5 CMakeFiles/sdf

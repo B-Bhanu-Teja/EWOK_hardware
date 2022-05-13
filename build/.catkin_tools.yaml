@@ -1,6 +1,0 @@
-devel_space: /home/lucifer/catkin_evok/devel
-install: false
-install_space: /home/lucifer/catkin_evok/install
-profile: default
-source_space: /home/lucifer/catkin_evok/src
-workspace: /home/lucifer/catkin_evok
